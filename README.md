@@ -6,9 +6,9 @@ Link to the Contest: https://www.hackerrank.com/contests/street-cause-code-for-a
 
 Organising Team:
 
-        Name                    Hackerrank ID
-1. Chitturi Sai Suman           skynetasspyder
-2. Praneeth Kapila              praneethkapila
-3. Karthik Reddy J.             karthikreddy_10
+                Name                    Hackerrank ID
+        1. Chitturi Sai Suman           skynetasspyder
+        2. Praneeth Kapila              praneethkapila
+        3. Karthik Reddy J.             karthikreddy_10
 
 For queries and Feedback, please write to saisumanchitturi@gmail.com
