@@ -1,7 +1,10 @@
 # Code_For_A_Cause
-This repository contains generator files for Code-For-A-Cause, a 3 hour coding contest organised by Street Cause Vasavi
-To view these files, download the zip file present in the repository, and extract the contents.
-Test cases, editorialist solutions and Tester's solution of each challenge are present in respective folder of Challenge.
+This repository contains generator files for Code-For-A-Cause, a 3 hour coding contest organised by Street Cause Vasavi.
+
+To view the files, please visit https://drive.google.com/drive/folders/12mJ67mViJXWqPY9YA1F2kG41HluuyRUD?usp=sharing
+
+Test cases, editorialist solutions and Tester's solution of each challenge are present in respective folder of Each Challenge.
+
 Link to the Contest: https://www.hackerrank.com/contests/street-cause-code-for-a-cause-2020/
 
 Organising Team:
